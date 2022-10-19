@@ -1,0 +1,13 @@
+h4{
+  display: inline;
+}
+
+
+.itmnodes{
+  display: flex;
+  flex-direction: row;
+ justify-content: space-around;
+ flex-wrap: wrap;
+ 
+}
+

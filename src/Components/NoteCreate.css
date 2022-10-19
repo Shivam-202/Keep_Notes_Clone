@@ -1,0 +1,22 @@
+
+.nodeContainer{
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+    border: 2px solid gray;
+    
+    margin: auto;
+  }
+  
+  .nodeContainer input{
+    outline-style: none;
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  
+  .nodeContainer textarea{
+    outline-style: none;
+    /* color: red; */
+    font-size: 1.3rem;
+    resize: none;
+  }

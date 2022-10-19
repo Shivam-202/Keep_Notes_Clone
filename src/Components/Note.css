@@ -1,0 +1,27 @@
+
+
+  
+  .individual{
+    min-height: 5rem;
+    width: 20rem;
+    border: 2px solid gray; 
+    border-radius: 10px;
+    box-shadow: 2px 2px 0 1px gray;
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 8px;
+  }
+  .individual p {
+    min-height: 3rem;
+  }
+  .delbtn{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  .titleCss{
+    font-weight: bold;
+  }
